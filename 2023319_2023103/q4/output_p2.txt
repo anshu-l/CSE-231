@@ -1,0 +1,5 @@
+total 24
+-rwxrwxrwx 1 midamsri midamsri 16424 Dec  6 18:11 a.out
+-rwxrwxrwx 1 midamsri midamsri    92 Dec  6 18:00 output_p1.txt
+-rwxrwxrwx 1 midamsri midamsri     0 Dec  6 18:15 output_p2.txt
+-rwxrwxrwx 1 midamsri midamsri  2217 Dec  6 18:12 q4.c
