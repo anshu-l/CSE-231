@@ -1,0 +1,2 @@
+Yeh text file mein likha jaayega: output_p1.txt
+Random text: 1234, Tum toh pajama insaan ho

@@ -1,0 +1,12 @@
+Use mmap if:
+	•	The file is large, and you need efficient access.
+	•	The program involves random access or multiple processes accessing the file.
+	•	You want to optimize performance for large datasets.
+Use fread if:
+	•	The file is small or medium-sized.
+	•	The program involves sequential access (e.g., line-by-line processing).
+	•	Portability and simplicity are important.
+
+For this specific program:
+	•	If the file (e.g., q1-10mil.txt) is very large, mmap will likely be more efficient.
+	•	If the file is relatively small, fread is simpler and may perform better.
